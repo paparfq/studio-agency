@@ -22,7 +22,6 @@
 | `docs/08-kpi-keuangan.md` | KPI, target, break-even |
 | `docs/09-risiko-kebijakan.md` | Risiko & aturan platform |
 | `docs/10-legal-admin.md` | Legalitas, pajak, kontrak |
-| `case-studies/kranny.md` | Studi kasus internal |
 | `templates/` | Brief, proposal, kontrak, laporan bulanan |
 
 ## Aturan repo
